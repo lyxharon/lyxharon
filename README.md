@@ -6,10 +6,15 @@
 /_/  |_|\__,_/    /_/  |_|/____/ \__//_/    \__,_/ ✨ 
                                                                                                
 ```
-This account is only used for code storage.
+Currently this account is only used to store codes.
 
 If you would like to view my repositories, please contact lixinru142857@gmail.com
 
+- student
+- python user
+- c user, but almost forgot everything
+- c++ beginner
+- linux beginner
 
 <!--
 **lyxharon/lyxharon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
