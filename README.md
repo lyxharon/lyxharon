@@ -6,8 +6,7 @@
 /_/  |_|\__,_/    /_/  |_|/____/ \__//_/    \__,_/  
                                                                                                
 ```
-
-This github is only used for code storage.
+This account is only used for code storage.
 
 If you would like to view my repositories, please contact lixinru142857@gmail.com
 
