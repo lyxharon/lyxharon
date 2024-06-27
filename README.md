@@ -1,14 +1,17 @@
+```
+    ___        __     ___           __              
+   /   |  ____/ /    /   |   _____ / /_ _____ ____ _
+  / /| | / __  /    / /| |  / ___// __// ___// __ `/
+ / ___ |/ /_/ /    / ___ | (__  )/ /_ / /   / /_/ / 
+/_/  |_|\__,_/    /_/  |_|/____/ \__//_/    \__,_/  
+                                                                                               
+```
+
 This github is only used for code storage.
+
 If you would like to view my repositories, please contact lixinru142857@gmail.com
 
-```
-    ___       __   ___         __            
-   /   | ____/ /  /   |  _____/ /__________ _
-  / /| |/ __  /  / /| | / ___/ __/ ___/ __ `/
- / ___ / /_/ /  / ___ |(__  ) /_/ /  / /_/ / 
-/_/  |_\__,_/  /_/  |_/____/\__/_/   \__,_/  
-                                             
-```
+
 <!--
 **lyxharon/lyxharon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
