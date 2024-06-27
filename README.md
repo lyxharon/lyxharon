@@ -10,6 +10,7 @@ Currently this account is only used to store codes.
 
 If you would like to view my repositories, please contact lixinru142857@gmail.com
 
+My self introduction: 
 - student
 - python user
 - c user, but almost forgot everything
